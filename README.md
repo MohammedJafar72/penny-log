@@ -1,6 +1,6 @@
-# pennylog
+# PennyLog
 
-A new Flutter project.
+Log smarter. Spend wiser, Because every penny counts.
 
 ## Getting Started
 
